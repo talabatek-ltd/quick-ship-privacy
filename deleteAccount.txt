@@ -1,1 +1,36 @@
-30
+Account Deletion
+
+App: QuickShip
+
+At QuickShip we respect our users' privacy and are committed to giving you full control over your data. You can delete your account at any time by following the steps below.
+
+Steps to delete your account:
+
+1. Open the QuickShip app and sign in to your account.
+
+2. Go to the Profile section (Profile tab in the bottom navigation bar).
+
+3. Scroll down and tap "Delete Account".
+
+4. Confirm your request:
+   - If you signed in with email and password: enter your password when prompted, then confirm deletion.
+   - If you signed in with Google: confirm deletion, then sign in with Google again when prompted to verify your identity.
+
+5. Confirm the deletion in the dialog to complete the process permanently.
+
+Data that will be deleted:
+
+When you delete your account, all data associated with it will be removed, including:
+
+- Basic account information (name, email, phone)
+- Order history and app usage data
+- User settings and preferences
+- Any data stored in your user profile
+
+Data that may be retained:
+
+Some data may be retained for a limited period when required for legal, regulatory, or security purposes only. Such data will be permanently deleted after the required retention period ends.
+
+Contact:
+
+For any questions regarding account deletion or data management, you can contact us through the support options available within the app.
